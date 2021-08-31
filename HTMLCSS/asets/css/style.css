@@ -1,0 +1,26 @@
+.main-header {
+  color:rgba(0,0,255);
+  text-align: center;
+  text-transform: uppercase;
+}
+.sub-header{
+  color: blueviolet;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 32px;
+  margin: 10px;
+  text-transform: uppercase;
+}
+.sub-header+p{
+font-size: 14pt;
+font-family: 'Allison', cursive;
+line-height: 1.3em;
+text-align: justify;
+}
+.page-link{
+  text-decoration: line-through 2px wavy red;
+}
+.aline-center{
+
+  text-align: center;
+  font-size: 10px;
+}
